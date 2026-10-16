@@ -13,9 +13,4 @@ Dependiendo del número de reglas que cumpla la contraseña (calculado de forma 
 * **0 a 2 reglas cumplidas:** `DÉBIL` 🔴
 * **3 reglas cumplidas:** `MEDIA` 🟡
 * **4 reglas cumplidas:** `FUERTE` 🟢
----
-## Cómo Compilar y Ejecutar
-El proyecto está diseñado en un archivo único (`parte1.cpp`), lo que facilita su compilación sin necesidad de configuraciones complejas o cabeceras adicionales.
-### 1. Compilar el código (usando GCC/G++):
-```bash
-g++ parte1.cpp -o parte1
+
